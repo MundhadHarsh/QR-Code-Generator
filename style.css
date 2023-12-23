@@ -49,7 +49,7 @@ body{
 }
 
 #imgBox{
-    width: 250px;
+    width: 300px;
     border-radius:5px ;
     max-height: 0;
     overflow: hidden;
